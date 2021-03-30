@@ -4,4 +4,8 @@ i m master
  i m newBranch
 >>>>>>> newBranch
 
+<<<<<<< HEAD
 add in newBranch
+=======
+add in master
+>>>>>>> master
