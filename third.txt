@@ -3,3 +3,5 @@ i m master
 =======
  i m newBranch
 >>>>>>> newBranch
+
+add in master
